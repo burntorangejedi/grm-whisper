@@ -1,0 +1,5 @@
+## Interface: 100105
+## Title: GRM - Whisper
+## Notes: Companion plugin for Guild Roster Manager that allows you to whisper members of your guild easily.
+## Dependencies: Ace3, Guild_Roster_Manager
+grm-whisper.lua
